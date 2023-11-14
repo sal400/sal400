@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdus Salam</h1>
-<h4 align="center">I started programming as a passion in 2012. Then, I converted it to my profession.</h4>
+<h4 align="center">I am a Front-end Developer</h4>
 <img src="https://github.com/sal400/sal400/blob/main/coding-banner-php.png">
 
 
