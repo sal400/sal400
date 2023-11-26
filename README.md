@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Abdus Salam</h1>
-<h4 align="center">I am a Front-end Developer</h4>
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;React+Developer;&center=true&width=500&height=50"></a>
+</p>
 <img src="https://github.com/sal400/sal400/blob/main/coding-banner-php.png">
 
 
