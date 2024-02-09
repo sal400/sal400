@@ -2,6 +2,9 @@
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;React+Developer;&center=true&width=500&height=50"></a>
 </p>
+<p align="center">
+  As a passionate Frontend Developer with expertise in ReactJS and JavaScript (ES6), I excel in creating interactive, visually stunning, and user-friendly websites. With a proactive approach to staying updated on new technologies, I am committed to continuously improving user experiences through responsive and accessible designs. Let's collaborate to shape the future of the web together!
+</p>
 <img src="https://github.com/sal400/sal400/blob/main/coding-banner-php.png">
 
 
