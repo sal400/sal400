@@ -28,3 +28,9 @@
     <a href="https://developer.wordpress.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
 <p align="center">Know more about me: <a href="https://abdus.co.uk">https://abdus.co.uk</a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sal400&show_icons=true&locale=en" alt="sal400" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sal400&" alt="sal400" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sal400&show_icons=true&locale=en&layout=compact" alt="sal400" /></p>
